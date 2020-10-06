@@ -1,3 +1,9 @@
+# Description
+
+This is a recomposed version of the working CARNIVAL package used for the internship at GenHotel 2020: *Highlighting Key Mediators In Rheumatoid Arthritis By Data Science, Statistical Analysis, And Applied Machine Learning Technique*.
+
+This forked repository was reworked and modified to fit our needs when working on RA disease.
+
 # CARNIVAL
 
 CARNIVAL is an R-package providing a framework to perform causal reasoning to infer a subset of signalling network from transcriptomics data. This work was originally based on [Melas et al.](https://pubs.rsc.org/en/content/articlehtml/2015/ib/c4ib00294f) with a number improved functionalities comparing to the original version.
